@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://khakisage.github.io/sitemap/sitemap-index.xml
+Host: https://khakisage.github.io
